@@ -1,0 +1,20 @@
+[
+    {
+        "id": "hero-card-1",
+        "icon": "/images/icons/resolve.png",
+        "title": "Resolution Center",
+        "description": "Resolve transaction or account issues"
+    },
+    {
+        "id": "hero-card-2",
+        "icon": "/images/icons/community-icon.png",
+        "title": "Ask the Community",
+        "description": "Find answers or join the conversation"
+    },
+    {
+        "id": "hero-card-3",
+        "icon": "/images/icons/comment.png",
+        "title": "Message Center",
+        "description": "Send, recieve and view tour PayPal messages"
+    }
+]

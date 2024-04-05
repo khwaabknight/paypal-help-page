@@ -1,0 +1,227 @@
+[
+    {
+        "subtitle":"Common Questions",
+        "questions":[
+            {
+                "id": "business-common-question-1",
+                "question":"How do I open a case with a seller?",
+                "url":"#"
+            },
+            {
+                "id": "business-common-question-2",
+                "question":"I forgot my password. How do I reset it?",
+                "url":"#"
+            },
+            {
+                "id": "business-common-question-3",
+                "question":"Why is my payment on hold or unavailable?",
+                "url":"#"
+            },
+            {
+                "id": "business-common-question-4",
+                "question":"I want my money back. Can I cancel a payment?",
+                "url":"#"
+            },
+            {
+                "id": "business-common-question-5",
+                "question":"Why am I receiving emails from PayPal when I don't have an account?",
+                "url":"#"
+            },
+            {
+                "id": "business-common-question-6",
+                "question":"How do I report an unauthorized transaction or account activity?",
+                "url":"#"
+            },
+            {
+                "id": "business-common-question-7",
+                "question":"Why is the payment I sent pending? Can I cancel it?",
+                "url":"#"
+            },
+            {
+                "id": "business-common-question-8",
+                "question":"How do I request a refund?",
+                "url":"#"
+            },
+            {
+                "id": "business-common-question-9",
+                "question":"Why was my payment declined?",
+                "url":"#"
+            },
+            {
+                "id": "business-common-question-10",
+                "question":"How do I change the name on my PayPal account?",
+                "url":"#"
+            }
+        ]
+    },
+    {
+        "subtitle":"PayPal Help Guides",
+        "questions":[
+            {
+                "id": "business-help-guide-1",
+                "question":"How do I open a dispute with a seller when a purchase goes wrong?",
+                "url":"#"
+            },
+            {
+                "id": "business-help-guide-2",
+                "question":"How do I cancel a recurring payment, subscription, or automatic billing agreement I have with a merchant?",
+                "url":"#"
+            },
+            {
+                "id": "business-help-guide-3",
+                "question":"How do I send money?",
+                "url":"#"
+            },
+            {
+                "id": "business-help-guide-4",
+                "question":"How do I request a refund?",
+                "url":"#"
+            },
+            {
+                "id": "business-help-guide-5",
+                "question":"How do I close my PayPal account?",
+                "url":"#"
+            },
+            {
+                "id": "business-help-guide-6",
+                "question":"How do I confirm my email address?",
+                "url":"#"
+            },
+            {
+                "id": "business-help-guide-7",
+                "question":"How do I confirm my mobile number?",
+                "url":"#"
+            },
+            {
+                "id": "business-help-guide-8",
+                "question":"How do I change my password?",
+                "url":"#"
+            },
+            {
+                "id": "business-help-guide-9",
+                "question":"How do I change my security questions?",
+                "url":"#"
+            },
+            {
+                "id": "business-help-guide-10",
+                "question":"How do I change my account type?",
+                "url":"#"
+            }
+        ]
+    },
+    {
+        "subtitle":"Payments & Transfers",
+        "questions":[
+            {
+                "id": "business-payment-transfers-1",
+                "question": "How do I update my billing information?",
+                "url": "#"
+            },
+            {
+                "id": "business-payment-transfers-2",
+                "question": "How do I add a bank account to my PayPal account?",
+                "url": "#"
+            },
+            {
+                "id": "business-payment-transfers-3",
+                "question": "How do I change my profile picture?",
+                "url": "#"
+            },
+            {
+                "id": "business-payment-transfers-4",
+                "question": "How do I view my transaction history?",
+                "url": "#"
+            },
+            {
+                "id": "business-payment-transfers-5",
+                "question": "How do I withdraw money from my PayPal account?",
+                "url": "#"
+            },
+            {
+                "id": "business-payment-transfers-6",
+                "question": "How do I link my bank account to PayPal?",
+                "url": "#"
+            },
+            {
+                "id": "business-payment-transfers-7",
+                "question": "How do I change my email address?",
+                "url": "#"
+            },
+            {
+                "id": "business-payment-transfers-8",
+                "question": "How do I update my security settings?",
+                "url": "#"
+            },
+            {
+                "id": "business-payment-transfers-9",
+                "question": "How do I add a credit card to my PayPal account?",
+                "url": "#"
+            },
+            {
+                "id": "business-payment-transfers-10",
+                "question": "How do I change my notification preferences?",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "subtitle":"Disputes & Limitations",                
+        "questions":[
+            {
+                "id": "business-disputes-limitations-1",
+                "question": "How do I cancel a payment?",
+                "url": "#"
+            },
+            {
+                "id": "business-disputes-limitations-2",
+                "question": "How do I request a refund?",
+                "url": "#"
+            },
+            {
+                "id": "business-disputes-limitations-3",
+                "question": "How do I update my shipping address?",
+                "url": "#"
+            },
+            {
+                "id": "business-disputes-limitations-4",
+                "question": "How do I cancel a recurring payment?",
+                "url": "#"
+            },
+            {
+                "id": "business-disputes-limitations-5",
+                "question": "How do I add a debit card to my PayPal account?",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "subtitle":"My Account",
+        "questions":[
+            {
+                "id": "business-my-account-1",
+                "question": "How do I update my account information?",
+                "url": "#"
+            },
+            {
+                "id": "business-my-account-2",
+                "question": "How do I change my password?",
+                "url": "#"
+            },
+            {
+                "id": "business-my-account-3",
+                "question": "How do I update my security questions?",
+                "url": "#"
+            },
+            {
+                "id": "business-my-account-4",
+                "question": "How do I change my account type?",
+                "url": "#"
+            },
+            {
+                "id": "business-my-account-5",
+                "question": "How do I update my billing information?",
+                "url": "#"
+            }
+        ]
+    }
+]

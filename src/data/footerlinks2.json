@@ -1,0 +1,37 @@
+[
+    {
+        "id": "footerlink-9",
+        "text": "About",
+        "link": "/About"
+    },
+    {
+        "id": "footerlink-10",
+        "text": "Newsroom",
+        "link": "/Newsroom"
+    },
+    {
+        "id": "footerlink-11",
+        "text": "Jobs",
+        "link": "/Jobs"
+    },
+    {
+        "id": "footerlink-12",
+        "text": "Investor Relations",
+        "link": "/Investor Relations"
+    },
+    {
+        "id": "footerlink-13",
+        "text": "Values in Action",
+        "link": "/Values in Action"
+    },
+    {
+        "id": "footerlink-14",
+        "text": "Public Policy",
+        "link": "/Public Policy"
+    },
+    {
+        "id": "footerlink-15",
+        "text": "Sitemap",
+        "link": "/Sitemap"
+    }
+]

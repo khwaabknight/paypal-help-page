@@ -1,0 +1,42 @@
+[
+    {
+        "id": "footerlink-1",
+        "text": "Help",
+        "link": "/Help"
+    },
+    {
+        "id": "footerlink-2",
+        "text": "Contact",
+        "link": "/Contact"
+    },
+    {
+        "id": "footerlink-3",
+        "text": "Fees",
+        "link": "/Fees"
+    },
+    {
+        "id": "footerlink-4",
+        "text": "Security",
+        "link": "/Security"
+    },
+    {
+        "id": "footerlink-5",
+        "text": "Apps",
+        "link": "/Apps"
+    },
+    {
+        "id": "footerlink-6",
+        "text": "Shop",
+        "link": "/Shop"
+    },
+    {
+        "id": "footerlink-7",
+        "text": "Enterprise",
+        "link": "/Enterprise"
+    },
+    {
+        "id": "footerlink-8",
+        "text": "Partners",
+        "link": "/Partners"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": "navlink-1",
+        "text": "personal",
+        "link": "/personal"
+    },
+    {
+        "id": "navlink-2",
+        "text": "business",
+        "link": "/business"
+    },
+    {
+        "id": "navlink-3",
+        "text": "developer",
+        "link": "/developer"
+    },
+    {
+        "id": "navlink-4",
+        "text": "Help",
+        "link": "/help"
+    }
+]

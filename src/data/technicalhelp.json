@@ -1,0 +1,258 @@
+[
+    
+    {
+        "subtitle":"My Wallet",
+        "questions":[
+            {
+                "id": "technical-my-wallet-1",
+                "question": "How do I add a bank account to my PayPal account?",
+                "url": "#"
+            },
+            {
+                "id": "technical-my-wallet-2",
+                "question": "How do I view my transaction history?",
+                "url": "#"
+            },
+            {
+                "id": "technical-my-wallet-3",
+                "question": "How do I withdraw money from my PayPal account?",
+                "url": "#"
+            },
+            {
+                "id": "technical-my-wallet-4",
+                "question": "How do I link my bank account to PayPal?",
+                "url": "#"
+            },
+            {
+                "id": "technical-my-wallet-5",
+                "question": "How do I add a credit card to my PayPal account?",
+                "url": "#"
+            }
+        ]
+    },    
+    {
+        "subtitle":"PayPal Help Guides",
+        "questions":[
+            {
+                "id": "technical-help-guide-1",
+                "question":"How do I open a dispute with a seller when a purchase goes wrong?",
+                "url":"#"
+            },
+            {
+                "id": "technical-help-guide-2",
+                "question":"How do I cancel a recurring payment, subscription, or automatic billing agreement I have with a merchant?",
+                "url":"#"
+            },
+            {
+                "id": "technical-help-guide-3",
+                "question":"How do I send money?",
+                "url":"#"
+            },
+            {
+                "id": "technical-help-guide-4",
+                "question":"How do I request a refund?",
+                "url":"#"
+            },
+            {
+                "id": "technical-help-guide-5",
+                "question":"How do I close my PayPal account?",
+                "url":"#"
+            },
+            {
+                "id": "technical-help-guide-6",
+                "question":"How do I confirm my email address?",
+                "url":"#"
+            },
+            {
+                "id": "technical-help-guide-7",
+                "question":"How do I confirm my mobile number?",
+                "url":"#"
+            },
+            {
+                "id": "technical-help-guide-8",
+                "question":"How do I change my password?",
+                "url":"#"
+            },
+            {
+                "id": "technical-help-guide-9",
+                "question":"How do I change my security questions?",
+                "url":"#"
+            },
+            {
+                "id": "technical-help-guide-10",
+                "question":"How do I change my account type?",
+                "url":"#"
+            }
+        ]
+    },
+    {
+        "subtitle":"Payments & Transfers",
+        "questions":[
+            {
+                "id": "technical-payment-transfers-1",
+                "question": "How do I update my billing information?",
+                "url": "#"
+            },
+            {
+                "id": "technical-payment-transfers-2",
+                "question": "How do I add a bank account to my PayPal account?",
+                "url": "#"
+            },
+            {
+                "id": "technical-payment-transfers-3",
+                "question": "How do I change my profile picture?",
+                "url": "#"
+            },
+            {
+                "id": "technical-payment-transfers-4",
+                "question": "How do I view my transaction history?",
+                "url": "#"
+            },
+            {
+                "id": "technical-payment-transfers-5",
+                "question": "How do I withdraw money from my PayPal account?",
+                "url": "#"
+            },
+            {
+                "id": "technical-payment-transfers-6",
+                "question": "How do I link my bank account to PayPal?",
+                "url": "#"
+            },
+            {
+                "id": "technical-payment-transfers-7",
+                "question": "How do I change my email address?",
+                "url": "#"
+            },
+            {
+                "id": "technical-payment-transfers-8",
+                "question": "How do I update my security settings?",
+                "url": "#"
+            },
+            {
+                "id": "technical-payment-transfers-9",
+                "question": "How do I add a credit card to my PayPal account?",
+                "url": "#"
+            },
+            {
+                "id": "technical-payment-transfers-10",
+                "question": "How do I change my notification preferences?",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "subtitle":"Disputes & Limitations",                
+        "questions":[
+            {
+                "id": "technical-disputes-limitations-1",
+                "question": "How do I cancel a payment?",
+                "url": "#"
+            },
+            {
+                "id": "technical-disputes-limitations-2",
+                "question": "How do I request a refund?",
+                "url": "#"
+            },
+            {
+                "id": "technical-disputes-limitations-3",
+                "question": "How do I update my shipping address?",
+                "url": "#"
+            },
+            {
+                "id": "technical-disputes-limitations-4",
+                "question": "How do I cancel a recurring payment?",
+                "url": "#"
+            },
+            {
+                "id": "technical-disputes-limitations-5",
+                "question": "How do I add a debit card to my PayPal account?",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "subtitle":"My Account",
+        "questions":[
+            {
+                "id": "technical-my-account-1",
+                "question": "How do I update my account information?",
+                "url": "#"
+            },
+            {
+                "id": "technical-my-account-2",
+                "question": "How do I change my password?",
+                "url": "#"
+            },
+            {
+                "id": "technical-my-account-3",
+                "question": "How do I update my security questions?",
+                "url": "#"
+            },
+            {
+                "id": "technical-my-account-4",
+                "question": "How do I change my account type?",
+                "url": "#"
+            },
+            {
+                "id": "technical-my-account-5",
+                "question": "How do I update my billing information?",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "subtitle":"Common Questions",
+        "questions":[
+            {
+                "id": "technical-common-question-1",
+                "question":"How do I open a case with a seller?",
+                "url":"#"
+            },
+            {
+                "id": "technical-common-question-2",
+                "question":"I forgot my password. How do I reset it?",
+                "url":"#"
+            },
+            {
+                "id": "technical-common-question-3",
+                "question":"Why is my payment on hold or unavailable?",
+                "url":"#"
+            },
+            {
+                "id": "technical-common-question-4",
+                "question":"I want my money back. Can I cancel a payment?",
+                "url":"#"
+            },
+            {
+                "id": "technical-common-question-5",
+                "question":"Why am I receiving emails from PayPal when I don't have an account?",
+                "url":"#"
+            },
+            {
+                "id": "technical-common-question-6",
+                "question":"How do I report an unauthorized transaction or account activity?",
+                "url":"#"
+            },
+            {
+                "id": "technical-common-question-7",
+                "question":"Why is the payment I sent pending? Can I cancel it?",
+                "url":"#"
+            },
+            {
+                "id": "technical-common-question-8",
+                "question":"How do I request a refund?",
+                "url":"#"
+            },
+            {
+                "id": "technical-common-question-9",
+                "question":"Why was my payment declined?",
+                "url":"#"
+            },
+            {
+                "id": "technical-common-question-10",
+                "question":"How do I change the name on my PayPal account?",
+                "url":"#"
+            }
+        ]
+    }
+]

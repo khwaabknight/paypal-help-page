@@ -1,0 +1,22 @@
+[
+    {
+        "id": "footerlink-17",
+        "text": "Accessibility",
+        "link": "/Accessibility"
+    },
+    {
+        "id": "footerlink-18",
+        "text": "Privacy",
+        "link": "/Privacy"
+    },
+    {
+        "id": "footerlink-19",
+        "text": "Cookies",
+        "link": "/Cookies"
+    },
+    {
+        "id": "footerlink-20",
+        "text": "Legal",
+        "link": "/Legal"
+    }
+]
