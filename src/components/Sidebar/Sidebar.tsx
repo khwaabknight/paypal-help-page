@@ -10,6 +10,7 @@ type SidebarProps = {
 function Sidebar({showSidebar, closeHandler}:SidebarProps) {
     
     const linkHandler = (link:string) => {
+        console.log(link)
         // navigate to "/{link}"
         // close the sidebar
         closeHandler();
